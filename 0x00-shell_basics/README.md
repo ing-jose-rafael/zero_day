@@ -1,2 +1,0 @@
-**Readme**
-Ejercicio Sell Basico
